@@ -1,4 +1,4 @@
-use train;
+use train1;
 select * from train1;
 SELECT COUNT(*) FROM train1;
 
